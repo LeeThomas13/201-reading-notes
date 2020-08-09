@@ -9,12 +9,12 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 
 # Table Of Contents
 
-[Reading 01](https://leethomas13.github.io/201-reading-notes/reading-01)
+[Reading 01](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-01)
 
-[Reading 02](https://leethomas13.github.io/201-reading-notes/reading-02)
+[Reading 02](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-02)
 
-[Reading 03](https://leethomas13.github.io/201-reading-notes/reading-03)
+[Reading 03](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-03)
 
-[Reading 04](https://leethomas13.github.io/201-reading-notes/reading-04)
+[Reading 04](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-04)
 
-[Reading 05](https://leethomas13.github.io/201-reading-notes/reading-05)
+[Reading 05](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-05)
