@@ -1,6 +1,4 @@
-# 201-reading-notes
-
-## Who Am I?
+# Who Am I?
 First and foremost I am a student software developer at Code Fellows! I love gaming, building computers, photography, scuba diving, music production, snowboarding, puzzles and most of all, learning. I was born in Virginia, raised in Ohio, spent most of my teenage-adult life in California, and now I am planning to move to Seattle to work on my future.
 
 [My Github Profile](https://github.com/LeeThomas13)
