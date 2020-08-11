@@ -3,13 +3,13 @@
 ## Duckett JS Book
 
 ### Object Literals (100-105)
-&nbsp;  
+<br>
 **What is an Object** 
-&nbsp;  
+<br> 
 Objects group together a set of variables and functions to create a model of a something tou wold recognize from the real world. In an object variables become known as a *property*. In an object a function is known as a *method*. Like variables and named functions, properties and methods have a name and a value. In an object that name is called a *key*. 
-&nbsp;  
+<br> 
 ex. 
-&nbsp;  
+<br> 
 var hotel = {
   name: 'Quay',
   rooms: 40,
@@ -20,7 +20,7 @@ var hotel = {
     return this.rooms - this.booked;
   }
 }
-&nbsp;  
+<br> 
 
 
 
