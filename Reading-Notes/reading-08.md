@@ -6,7 +6,7 @@
 
 <br>
 
-**THIS IS A REPEAT OF READING 04 WITH A FEW MORE DETAILS**
+**THIS IS A REPEAT OF READING 04 WITH MORE DETAILS**
 <br>
 
 Block elements are the core of layout. CSS treats each HTML element as if its in its own  box. This box will wither be a block-level box or an inline box. Block level elements start on on their own line. Inline elements flow in between surrounding text. 
