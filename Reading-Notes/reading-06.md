@@ -26,3 +26,7 @@ var hotel = {
 
 
 ### Document Object Model (183-242)
+
+
+
+[Back To Homepage](https://leethomas13.github.io/201-reading-notes/)
