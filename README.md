@@ -24,3 +24,5 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 [Reading 08](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-08)
 
 [Reading 09](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-09)
+
+[Reading 10](https://leethomas13.github.io/201-reading-notes/Reading-Notes/reading-10)
