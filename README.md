@@ -38,3 +38,5 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 # 301 Table Of Contents
 
 [Reading 01](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-01)
+
+[Reading 02](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-02)
