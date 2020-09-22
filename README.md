@@ -37,6 +37,16 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 
 # 301 Table Of Contents
 
-[Reading 01](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-01)
+[Reading 06](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-06)
 
-[Reading 02](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-02)
+[Reading 07](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-07)
+
+[Reading 08](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-08)
+
+[Reading 09](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-09)
+
+[Reading 10](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-10)
+
+[Reading 11](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-11)
+
+[Reading 12](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-12)
