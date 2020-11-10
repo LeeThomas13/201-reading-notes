@@ -54,3 +54,9 @@ First and foremost I am a student software developer at Code Fellows! I love gam
 [Reading 13](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-13)
 
 [Reading 14](https://leethomas13.github.io/reading-notes/301-Reading-Notes/reading-14)
+
+# 401 Python Table of Contents
+
+[Reading 1]((https://leethomas13.github.io/reading-notes/401-python-reading-notes/reading-01))
+
+[Reading 2]((https://leethomas13.github.io/reading-notes/401-python-reading-notes/reading-02))
